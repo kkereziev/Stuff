@@ -1,0 +1,11 @@
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.deps.json
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.json
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.runtimeconfig.dev.json
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.dll
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\bin\Debug\netcoreapp2.2\Calculator.pdb
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfoInputs.cache
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.AssemblyInfo.cs
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.dll
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.pdb
+C:\Users\Krum Kereziev\source\repos\Calculator\Calculator\obj\Debug\netcoreapp2.2\Calculator.csprojAssemblyReference.cache
