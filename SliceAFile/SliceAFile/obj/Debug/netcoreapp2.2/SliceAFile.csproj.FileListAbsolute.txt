@@ -1,0 +1,12 @@
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\sliceMe.txt
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.deps.json
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.runtimeconfig.json
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.runtimeconfig.dev.json
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.dll
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\bin\Debug\netcoreapp2.2\SliceAFile.pdb
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.csprojAssemblyReference.cache
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.csproj.CoreCompileInputs.cache
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.AssemblyInfoInputs.cache
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.AssemblyInfo.cs
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.dll
+C:\Users\Krum Kereziev\source\repos\SliceAFile\SliceAFile\obj\Debug\netcoreapp2.2\SliceAFile.pdb
