@@ -1,0 +1,13 @@
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\FileOne.txt
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\FileTwo.txt
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\MergeFIles.deps.json
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\MergeFIles.runtimeconfig.json
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\MergeFIles.runtimeconfig.dev.json
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\MergeFIles.dll
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\bin\Debug\netcoreapp2.2\MergeFIles.pdb
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.csprojAssemblyReference.cache
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.csproj.CoreCompileInputs.cache
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.AssemblyInfoInputs.cache
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.AssemblyInfo.cs
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.dll
+C:\Users\Krum Kereziev\source\repos\MergeFIles\MergeFIles\obj\Debug\netcoreapp2.2\MergeFIles.pdb
