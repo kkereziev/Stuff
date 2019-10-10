@@ -1,0 +1,11 @@
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp2.2\DirectoryTraversal.deps.json
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp2.2\DirectoryTraversal.runtimeconfig.json
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp2.2\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp2.2\DirectoryTraversal.dll
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\bin\Debug\netcoreapp2.2\DirectoryTraversal.pdb
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.csprojAssemblyReference.cache
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.dll
+C:\Users\Krum Kereziev\source\repos\DirectoryTraversal\DirectoryTraversal\obj\Debug\netcoreapp2.2\DirectoryTraversal.pdb
