@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipAndExtract", "ZipAndExtract\ZipAndExtract.csproj", "{53A22786-9222-42E6-B65C-28225FA3C12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A22786-9222-42E6-B65C-28225FA3C12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A22786-9222-42E6-B65C-28225FA3C12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A22786-9222-42E6-B65C-28225FA3C12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A22786-9222-42E6-B65C-28225FA3C12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {543E0BA7-05B7-4213-9148-A2D5A0B58898}
+	EndGlobalSection
+EndGlobal
